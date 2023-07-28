@@ -15,7 +15,7 @@ By Creating .env file with your OpenAI Key or simply export it or by using bash 
 <br />
 **Step 4** - Run the app with Streamlit
 <br />
-use the command: streamlit run streamlit_app_lesson_calendar.py
+use the command: streamlit run streamlit_app_quizz_final_github.py
 <br />
 **Step 5** - Go to
 <br />
