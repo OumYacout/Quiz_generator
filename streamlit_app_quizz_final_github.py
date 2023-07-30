@@ -1,5 +1,5 @@
-# gpt3 professional email generator by Belghini - version July 2023
-# to run : streamlit run streamlit_app.py
+# gpt3 quiz generator by Belghini - version July 2023
+
 
 import os
 import openai
